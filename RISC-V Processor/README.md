@@ -158,10 +158,6 @@ The project includes multiple unit tests located in the `unit_tests/` directory.
 - Updated by Sat Garcia
 - Project: COMP300 P09
 
-## License
-
-This project appears to be an academic assignment. Please refer to your course guidelines for usage and distribution policies.
-
 ## Notes
 
 - The instruction memory (`imem`) uses a simplified addressing scheme (PC[7:2])
