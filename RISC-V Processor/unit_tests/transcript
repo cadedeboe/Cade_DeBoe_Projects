@@ -1,0 +1,5 @@
+do run_unit_test.do 7
+# Cannot open macro file: run_unit_test.do
+do run_unit_test.do 5
+# Cannot open macro file: run_unit_test.do
+exit
