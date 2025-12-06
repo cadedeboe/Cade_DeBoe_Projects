@@ -42,15 +42,6 @@ A comprehensive deep learning face recognition system with multiple model archit
 - Command-line interface and interactive menu
 - Streamlit demo application
 
-**Technologies:** PyTorch, OpenCV, MTCNN, Optuna, Streamlit
-
-**Quick Start:**
-```bash
-cd facial-tracking
-pip install -r requirements.txt
-python -m src.main interactive
-```
-
 ---
 
 ### 2. Chess Bot with Minimax Algorithm
@@ -73,10 +64,6 @@ cd chess-bot
 python chess_engine.py
 ```
 
-**Documentation:** See `chess-bot/README.md` for detailed documentation.
-
----
-
 ### 3. RISC-V Processor
 
 A complete RISC-V processor implementation demonstrating understanding of computer architecture and instruction set architecture (ISA).
@@ -91,17 +78,6 @@ A complete RISC-V processor implementation demonstrating understanding of comput
 
 **Technologies:** Verilog/SystemVerilog, VHDL, or SystemC (depending on implementation)
 
-**Quick Start:**
-```bash
-cd risc-v-processor
-# Compile and simulate using your preferred toolchain
-# (e.g., Verilator, ModelSim, Vivado)
-```
-
-**Documentation:** See `risc-v-processor/README.md` for detailed documentation.
-
----
-
 ### 4. Lexical Analyzer
 
 A lexical analyzer (tokenizer) implementation using automata theory principles for parsing and tokenizing source code.
@@ -115,14 +91,6 @@ A lexical analyzer (tokenizer) implementation using automata theory principles f
 - Symbol table management
 
 **Technologies:** Python/C++/Java (depending on implementation), Automata Theory
-
-**Quick Start:**
-```bash
-cd lexical-analyzer
-python lexical_analyzer.py input.txt
-```
-
-**Documentation:** See `lexical-analyzer/README.md` for detailed documentation.
 
 ---
 
@@ -151,49 +119,6 @@ python lexical_analyzer.py input.txt
 
 ---
 
-## Getting Started
-
-### Prerequisites
-
-- **Python 3.8+** (for ML and algorithm projects)
-- **Git** (for cloning the repository)
-- **Hardware Description Language toolchain** (for RISC-V processor - e.g., Verilator, Vivado, ModelSim)
-
-### Installation
-
-1. Clone the repository:
-```bash
-git clone <repository-url>
-cd portfolio-projects
-```
-
-2. Install dependencies for each project individually:
-
-**Face Recognition System:**
-```bash
-cd facial-tracking
-pip install -r requirements.txt
-```
-
-**Chess Bot:**
-```bash
-cd chess-bot
-pip install -r requirements.txt  # if applicable
-```
-
-**Lexical Analyzer:**
-```bash
-cd lexical-analyzer
-pip install -r requirements.txt  # if applicable
-```
-
-**RISC-V Processor:**
-- Follow the specific toolchain setup instructions in the project directory
-
----
-
----
-
 ## Features by Project
 
 | Project | Domain | Complexity | Key Algorithms/Concepts |
@@ -214,7 +139,7 @@ This is a personal portfolio repository. If you have suggestions or find issues,
 
 ## Contact
 
-[Your Name]
+[Cade DeBoe]
 - GitHub: [@cadedeboe](https://github.com/cadedeboe)
 - Email: [cadedeboe@gmail.com]
 - LinkedIn: [https://www.linkedin.com/in/cade-deboe-8a15a2346/]
