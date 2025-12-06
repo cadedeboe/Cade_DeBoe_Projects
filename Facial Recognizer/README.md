@@ -216,11 +216,4 @@ results = run_hyperparameter_tuning(
 )
 ```
 
-## License
-
-[Add your license here]
-
-## Citation
-
-[Add citation if applicable]
 
