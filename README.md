@@ -58,12 +58,6 @@ An intelligent chess engine implementing the minimax algorithm with alpha-beta p
 
 **Technologies:** Python, Chess libraries (if applicable)
 
-**Quick Start:**
-```bash
-cd chess-bot
-python chess_engine.py
-```
-
 ### 3. RISC-V Processor
 
 A complete RISC-V processor implementation demonstrating understanding of computer architecture and instruction set architecture (ISA).
